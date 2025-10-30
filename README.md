@@ -220,5 +220,6 @@ For questions, issues, or contributions:
 
 ---
 
-**Built with ❤️ for the Industrial IoT and TinyML community**#   T i n y M L - E n a b l e d - P r o g n o s t i c s - D a s h b o a r d - f o r - I n d u s t r i a l - I o T - D e v i c e s  
+**Built with ❤️ for the Industrial IoT and TinyML community**#   T i n y M L - E n a b l e d - P r o g n o s t i c s - D a s h b o a r d - f o r - I n d u s t r i a l - I o T - D e v i c e s 
+ 
  
